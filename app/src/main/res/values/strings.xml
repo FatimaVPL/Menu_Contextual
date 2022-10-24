@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menu Contextual</string>
+    <string name="ConvertirMayusculas">Convertir a mayusculas</string>
+    <string name="ConvertirMinusculas">Convertir a  minusculas</string>
+</resources>
